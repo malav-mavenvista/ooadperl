@@ -1,0 +1,7 @@
+Astah UML tool can be can be downloaded from one drive:
+	
+	64 bit version: https://1drv.ms/u/s!AuHjPfwXlj-mjVSpt6M4c_0AXfXO?e=rR4pfh
+	
+	32 bit version: https://1drv.ms/u/s!AuHjPfwXlj-mjVVcyMYfdUNBFn0Q?e=nTJFcZ
+
+While installing, select "install with JRE".
